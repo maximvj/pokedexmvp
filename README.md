@@ -16,7 +16,7 @@ https://user-images.githubusercontent.com/97877440/177332261-93a1ea63-6a2e-4a7d-
 
 Основной использованный стэк: MVP, UIKit, NavigationController, URLSession, CollectionView, SearchBar
 
-Краткое описание: Получение по API информации и изображений персонажей видеоигры и дальнейшее отображение этих данных с помощью CollectionView
+Краткое описание: Получение по API информации и изображений персонажей видеоигры и последующее отображение этих данных с помощью CollectionView
 
 API: https://pokeapi.co/api/v2/pokemon/?offset=0&limit=300
 
