@@ -1,6 +1,8 @@
-<pre>       First Screen                          Second Screen </pre>
+### Screens
 
 <img src="https://github.com/maximvj/pokedexmvp/blob/main/firstScreen.jpg"  width="300" height="550"> <img src="https://github.com/maximvj/pokedexmvp/blob/main/secondScreen.jpg"  width="300" height="550"> 
+
+### Test video
 
 https://user-images.githubusercontent.com/97877440/177332261-93a1ea63-6a2e-4a7d-ad17-9987632f6136.mp4
 
@@ -8,6 +10,9 @@ https://user-images.githubusercontent.com/97877440/177332261-93a1ea63-6a2e-4a7d-
 
 
 
+
+
+### Description
 
 Основной использованный стэк: UIKit, NavigationController, URLSession, CollectionView, MVP, SearchBar
 
