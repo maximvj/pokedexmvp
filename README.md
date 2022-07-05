@@ -1,4 +1,4 @@
-<pre>        First Screen                         Second Screen </pre>
+<pre>       First Screen                          Second Screen </pre>
 
 <img src="https://github.com/maximvj/pokedexmvp/blob/main/firstScreen.jpg"  width="300" height="550"> <img src="https://github.com/maximvj/pokedexmvp/blob/main/secondScreen.jpg"  width="300" height="550"> 
 
